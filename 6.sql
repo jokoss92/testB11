@@ -1,0 +1,1 @@
+CREATE TABLE `testB11`.`cities` ( `id` INT NOT NULL AUTO_INCREMENT, `name` VARCHAR NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
